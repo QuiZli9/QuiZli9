@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @QuiZli9
+- 👋 Hi, I’m Sounak Ghosh
 - 👀 I’m interested in coding,electronics
 - 🌱 I’m currently learning python , backend
 - 💞️ I’m looking to collaborate on anything
